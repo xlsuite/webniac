@@ -32,9 +32,9 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Stone Circle',
+        label: 'Built by Chris Manson',
         route: 'page',
-        id: 'stone-circle'
+        id: 'chris-manson'
       }]
     }
   };
