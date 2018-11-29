@@ -9,4 +9,4 @@ If you want to get started right now with a new Ember Ghost blog just click the 
 
 ## Technology
 
-If you are interested in how this works then go checkout the [Ember Ghost](https://github.com/stonecircle/ember-ghost) repo or reach out to me [on Twitter](https://twitter.com/real_ate)
+If you are interested in how this works then go checkout the [Ember Ghost](https://github.com/empress/ember-ghost) repo or reach out to me [on Twitter](https://twitter.com/real_ate)
