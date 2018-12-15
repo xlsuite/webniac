@@ -19,6 +19,8 @@ Webniac = Someone crazy about the web.
 1. We're born this way.
 
 1. We like to experiment. (Don't knock it unless you've tried it.) [Webniac](http://mediastewardship.com)
+![mediastewardship](/images/fundraising.experts/15.png )
+
 
 ### Quick Start
 
