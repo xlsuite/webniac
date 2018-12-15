@@ -5,20 +5,21 @@ imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: Riel
-date: date
+author: ghost
+date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started
 ---
 
-Webniac = Someone crazy about the web.
+Hello hello, is this thing on? :)
+
 ### There are a few things that you should know up-front:
 
-1. Webniac is a lifestyle choice.
+1. Ember Ghost is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
 
-1. We're born this way.
+1. Ember Ghost is designed for developers who know how to deploy a satic site (folder of html files and assets) using something like S3 or even just on NGINX.
 
-1. We like to experiment. (Don't knock it unless you've tried it.) [Webniac](http://mediastewardship.com)
+1. If you are slightly less tech savvy or if you want to manage your blog outside of just a set of files in a git repo we highly recommend signing up for [Ghost](https://ghost.org/pricing/)
 
 ### Quick Start
 
